@@ -2,7 +2,7 @@
 ## I'm a beginner GameDev & Software Developer
 
 
-[![Header](https://github.com/KravchaDev/kravchadev/blob/main/assets/Frame%201(32).png)](https://www.t.me/kravcha1)
+[![Header](https://i.yapx.ru/NZGoV.png)](https://www.t.me/fenfxlim)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenfxlim)](https://github.com/anuraghazra/github-readme-stats)
 
