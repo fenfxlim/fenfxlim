@@ -18,7 +18,7 @@
 <!-- TELEGA:END -->
 
 ### Languages and Tools:
-![C#](https://img.shields.io/badge/-C#-1c1c1c?style=for-the-badge&logo=c++&logoColor=fff)
+![C#](https://img.shields.io/badge/-CSHARP-1c1c1c?style=for-the-badge&logo=c#&logoColor=fff)
 ![UNITY](https://img.shields.io/badge/-UNITY-1c1c1c?style=for-the-badge&logo=unity&logoColor=fff)
 ![HTML](https://img.shields.io/badge/-HTML-1c1c1c?style=for-the-badge&logo=html&logoColor=F8C52C)
 
